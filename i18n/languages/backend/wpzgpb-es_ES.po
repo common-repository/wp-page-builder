@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.7.5\n"
+
+msgid "The plugin can not be network activated. You need to activate the plugin per site"
+msgstr "El plugin no puede ser activada de la red. Es necesario activar el plugin por sitio"
+
+msgid "Styles Font Menu requires WordPress 3.4 or newer."
+msgstr "Styles Font Menu requiere WordPress 3.4 o más reciente."
+
+msgid "Please update."
+msgstr "Por favor actualice."
+
+msgid "Select language"
+msgstr "Seleccione idioma"
+
+msgid "english"
+msgstr "ingles"
+
+msgid "spanish"
+msgstr "español"
+
+msgid "french"
+msgstr "frances"
+
+msgid "german"
+msgstr "alemán"
+
+msgid "italian"
+msgstr "italiano"
+
+msgid "portuguese"
+msgstr "portugues"
+
+msgid "russian"
+msgstr "ruso"
+
+msgid "chinese"
+msgstr "chino"
+
+msgid "Edit with Landera"
+msgstr "Editar"
+
+msgid "Invalid ID"
+msgstr "ID inválido"
+
+msgid "Landera is not enabled and is not active"
+msgstr "Landera no esta activada y no esta activo"
+
+msgid "Current user can not publish posts"
+msgstr "El usuario actual no puede publicar mensajes"
+
+msgid "Dock"
+msgstr "Acoplar"
+
+msgid "Save draft"
+msgstr "Guardar borrador"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Templates"
+msgstr "Plantillas"
+
+msgid "Blank"
+msgstr "Blanco"
+
+msgid "Landing page"
+msgstr "Landing Page"
+
+msgid "Dock Palette"
+msgstr "Paleta de acoplamiento"
+
+msgid "Show Palette"
+msgstr "Mostrar paleta"
+
+msgid "Hide Palette"
+msgstr "Esconder paleta"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid " Option 2"
+msgstr "opción"
+
+msgid " Show vars"
+msgstr "Muestra de la vars"
+
+msgid "Landera"
+msgstr ""
+
+msgid "Fields palette"
+msgstr "Elementos"
+
+msgid "Undock"
+msgstr "Desacoplar"
+
+msgid "Fields Palette"
+msgstr "Elementos"
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Introduction"
+msgstr "Introducción"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select here.."
+msgstr "Seleccionar"
+
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+msgid "NO BUILDER"
+msgstr "NO CONSTRUCTOR"
+
+msgid "BACKEND BUILDER"
+msgstr "EDITOR EN BACKEND"
+
+msgid "FRONTEND BUILDER"
+msgstr "EDITOR EN FRONTEND"
+
+msgid "test results"
+msgstr "prueba"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "you can use ESC key for fast close"
+msgstr "puede utilizar la tecla ESC para cierre rápido"
+
+msgid "Field Options"
+msgstr "Opciones del campo"
+
+msgid "Input"
+msgstr "Entrada"
+
+msgid "More Options"
+msgstr "Añadir mas destinos"
+
+msgid "Text editor"
+msgstr "Editor de formularios"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "your content"
+msgstr "Tu contenido"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Url to the button"
+msgstr "URL a el boton"
+
+msgid "Target"
+msgstr "objetivo"
+
+msgid "Url target"
+msgstr "url objetivo"
+
+msgid "other options"
+msgstr "Otras opciones"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "none"
+msgstr "Ninguna"
+
+msgid "Font family"
+msgstr "tipografía"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Color for text"
+msgstr "Color de texto"
+
+msgid "Pick the color"
+msgstr "Elige el color"
+
+msgid "Text Shadow"
+msgstr "Sombra de texto"
+
+msgid "horizontal"
+msgstr "horizontal"
+
+msgid "vertical"
+msgstr "vertical"
+
+msgid "blur"
+msgstr "borroso"
+
+msgid "Text alignment"
+msgstr "Alineación del texto"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Center"
+msgstr "Centrar"
+
+msgid "Right"
+msgstr "Correcto"
+
+msgid "Button alignment"
+msgstr "Alineación de botón"
+
+msgid "Background"
+msgstr "Fondo"
+
+msgid "Enable background"
+msgstr "Habilitar"
+
+msgid "Background type"
+msgstr "Fondo"
+
+msgid "Choose background type"
+msgstr "no hay destinos"
+
+msgid "Solid"
+msgstr "Sólido"
+
+msgid "Gradient"
+msgstr "Gradiente"
+
+msgid "Color for background"
+msgstr "Color de fondo"
+
+msgid "Start color"
+msgstr "Comience el color"
+
+msgid "Start color for background"
+msgstr "Color de fondo"
+
+msgid "End color"
+msgstr "Fin de color"
+
+msgid "End color for background"
+msgstr "Color de fondo"
+
+msgid "Image"
+msgstr "Ancho de la imagen"
+
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+msgid "Update Image"
+msgstr "Actualizar imagen"
+
+msgid "Size"
+msgstr "Tamaño de la fuente del texto"
+
+msgid "Background size"
+msgstr "Fondo"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Background repeat"
+msgstr "Repetición del fondo"
+
+msgid "Position"
+msgstr "Ayuda posición del bloque"
+
+msgid "Background position"
+msgstr "Fondo"
+
+msgid "Background Hover"
+msgstr "Fondo"
+
+msgid "Border"
+msgstr "Frontera"
+
+msgid "Enable Border"
+msgstr "Habilitar borde"
+
+msgid "Enable border"
+msgstr "Habilitar borde"
+
+msgid "Color for border"
+msgstr "Color para el borde"
+
+msgid "Border type"
+msgstr "Tipo de borde"
+
+msgid "Choose border type"
+msgstr "Elegir tipo de frontera"
+
+msgid "Dotted"
+msgstr "Punteado"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "Border width"
+msgstr "Ancho del borde"
+
+msgid "Border radius"
+msgstr "Radio de las esquinas"
+
+msgid "Enable border radius"
+msgstr "Radio del borde"
+
+msgid "Drag the slider to increase the size of border radius"
+msgstr "Arrastre el control deslizante para aumentar el radio del borde"
+
+msgid "Shadow"
+msgstr "Sombra"
+
+msgid "Enable shadow"
+msgstr "Activar sombra"
+
+msgid "Shadow color"
+msgstr "Color de la sombra"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Drag the slider to modify horizontal value"
+msgstr "Arrastre el control deslizante para modificar el valor horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Drag the slider to modify vertical value"
+msgstr "Arrastre la barra deslizante para modificar valor vertical"
+
+msgid "Blur"
+msgstr "borroso"
+
+msgid "Drag the slider to modify blur value"
+msgstr "Arrastre la barra deslizante para modificar valor de desenfoque"
+
+msgid "Padding"
+msgstr "Padding"
+
+msgid "Top"
+msgstr "Superior"
+
+msgid "Top margin (px)"
+msgstr "Margen superior (px)"
+
+msgid "Bottom"
+msgstr "Fondo"
+
+msgid "Bottom margin (px)"
+msgstr "Margen de fondo"
+
+msgid "left"
+msgstr "izquierdo"
+
+msgid "Left margin (px)"
+msgstr "margen izquierdo"
+
+msgid "right"
+msgstr "derecho"
+
+msgid "Right margin (px)"
+msgstr "margen derecho"
+
+msgid "Margin"
+msgstr "margen"
+
+msgid "Additional"
+msgstr "adicional"
+
+msgid "ID selector"
+msgstr "Selector ID"
+
+msgid "ID selector let you control through css or javascript"
+msgstr "Selector ID permite controlar por css o javascript"
+
+msgid "CSS class"
+msgstr ""
+
+msgid "CSS class let you control through css or javascript"
+msgstr "Clase CSS permiten el control a través de css o javascript"
+
+msgid "Additional css"
+msgstr "Css adicional"
+
+msgid "Skin"
+msgstr "Stilo"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Color for texts inner field"
+msgstr "Color para el campo interior de textos"
+
+msgid "Max width"
+msgstr "Ancho máximo"
+
+msgid "Max width for the content"
+msgstr "Anchura máxima del contenido"
+
+msgid "HTML heading"
+msgstr "Encabezado de HTML"
+
+msgid "H1"
+msgstr ""
+
+msgid "H2"
+msgstr ""
+
+msgid "H3"
+msgstr ""
+
+msgid "H4"
+msgstr ""
+
+msgid "H5"
+msgstr ""
+
+msgid "H6"
+msgstr ""
+
+msgid "html editor"
+msgstr "Editor HTML"
+
+msgid "Content alignment"
+msgstr "Alineación del contenido"
+
+msgid ""
+"this ID selector will be added to this field. it lets you control through css or "
+"javascript"
+msgstr ""
+"Este selector de ID se añadira a este campo. permite control a través de css o javascript"
+
+msgid ""
+"this css class will be added to the field. it lets you control through css or javascript"
+msgstr "Esta clase css que se añade al campo. permite control a través de css o javascript"
+
+msgid "Text align"
+msgstr "Alineación del texto"
+
+msgid "Text container alignment"
+msgstr "Alineación del contenedor de texto"
+
+msgid "Main fields"
+msgstr "Campos principales"
+
+msgid "More fields"
+msgstr "Más campos"
+
+msgid "Standard Fields"
+msgstr "Campos estandar"
+
+msgid "HTML"
+msgstr ""
+
+msgid "Heading"
+msgstr "Cabecera"
+
+msgid "Button"
+msgstr "Botón"
+
+msgid "Grid System"
+msgstr "Sistema Grid"
+
+msgid "1 Col"
+msgstr ""
+
+msgid "2 Cols"
+msgstr ""
+
+msgid "3 Cols"
+msgstr ""
+
+msgid "4 Cols"
+msgstr ""
+
+msgid "6 Cols"
+msgstr ""
+
+msgid "12 Cols"
+msgstr ""
+
+msgid "Delete field selected"
+msgstr "Eliminar campo seleccionado"
+
+msgid "Are you sure?"
+msgstr "¿Estas seguro?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Are you sure about this?"
+msgstr "Â¿Estas seguro acerca de esto?"
+
+msgid "Row"
+msgstr "Fila"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Removing"
+msgstr "eliminador"
+
+msgid "Processing"
+msgstr "Procesando"
+
+msgid "Loading"
+msgstr "Cargando"
+
+msgid "Saving"
+msgstr "Guardando"
+
+msgid "Post is saved and published"
+msgstr "El post esta guardado y publicado"
+
+msgid "Post is saved as a draft"
+msgstr "El post está guardado como un borrador"
+
+msgid "Post imported successfully"
+msgstr "Post importado con éxito"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Desktop"
+msgstr "Escritorio"
+
+msgid "Tablet"
+msgstr "Tableta"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid " Option 3"
+msgstr "Opcion 3"
+
+msgid " Layout gen"
+msgstr "Diseño gen"
+
+msgid "Post to export"
+msgstr "Post a exportar"
+
+msgid ""
+"the exporting code is used for backuping your custom post, just copy the text and import "
+"it using \"import\" menu"
+msgstr ""
+"El codigo de exportación es usado para guardar copia respald de tu post, solo copiar el "
+"texto e importarlo using menu import"
+
+msgid "Export post"
+msgstr "Exportar post"
+
+msgid "Import your post"
+msgstr "Importar tu post"
+
+msgid "Import your post here, just paste the export code and that is all."
+msgstr "Importar su post aquí­, solo pegar el código de exportación y eso es todo."
+
+msgid "Import post"
+msgstr "Importar Publicacion"
+
+msgid "Post failed on saving"
+msgstr "La publicación no pude ser grabada"
+
+msgid "Post could not be saved because of next reasons:"
+msgstr "Publicacion no pudo ser grabado debido a las siguientes razones"
+
+msgid "Error!"
+msgstr "Error!"

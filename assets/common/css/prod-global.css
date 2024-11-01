@@ -1,0 +1,36 @@
+.zgpb-fl-gs-block-inner{
+    min-height: 50px;
+}
+
+/*field heading*/
+.zgpbf-f-heading h1,
+.zgpbf-f-heading h2,
+.zgpbf-f-heading h3,
+.zgpbf-f-heading h4,
+.zgpbf-f-heading h5,
+.zgpbf-f-heading h6{
+    margin:0px;
+   /* color:inherit;
+    font-family: inherit;
+    font-size:inherit;
+    font-style:inherit;
+    font-weight:inherit;
+    text-decoration: inherit;*/
+  
+    
+}
+
+/*button field*/
+
+.zgpbf-f-texteditor .zgpb-input1-text{
+    display:inline-block;
+}
+
+.zgpbf-f-heading .zgpb-input1-text{
+    display:inline-block;
+}
+
+.zgpbf-f-button .zgpb-input1-text{
+    display:inline-block !important;
+    cursor: pointer;
+}

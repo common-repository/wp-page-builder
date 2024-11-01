@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Wordpress Page Builder\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.7.5\n"
+
+msgid "The plugin can not be network activated. You need to activate the plugin per site"
+msgstr ""
+
+msgid "Styles Font Menu requires WordPress 3.4 or newer."
+msgstr ""
+
+msgid "Please update."
+msgstr ""
+
+msgid "Select language"
+msgstr ""
+
+msgid "english"
+msgstr ""
+
+msgid "spanish"
+msgstr ""
+
+msgid "french"
+msgstr ""
+
+msgid "german"
+msgstr ""
+
+msgid "italian"
+msgstr ""
+
+msgid "portuguese"
+msgstr ""
+
+msgid "russian"
+msgstr ""
+
+msgid "chinese"
+msgstr ""
+
+msgid "Edit with Landera"
+msgstr ""
+
+msgid "Invalid ID"
+msgstr ""
+
+msgid "Landera is not enabled and is not active"
+msgstr ""
+
+msgid "Current user can not publish posts"
+msgstr ""
+
+msgid "Dock"
+msgstr ""
+
+msgid "Save draft"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Templates"
+msgstr ""
+
+msgid "Blank"
+msgstr ""
+
+msgid "Landing page"
+msgstr ""
+
+msgid "Dock Palette"
+msgstr ""
+
+msgid "Show Palette"
+msgstr ""
+
+msgid "Hide Palette"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid " Option 2"
+msgstr ""
+
+msgid " Show vars"
+msgstr ""
+
+msgid "Landera"
+msgstr ""
+
+msgid "Fields palette"
+msgstr ""
+
+msgid "Undock"
+msgstr ""
+
+msgid "Fields Palette"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Select here.."
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "NO BUILDER"
+msgstr ""
+
+msgid "BACKEND BUILDER"
+msgstr ""
+
+msgid "FRONTEND BUILDER"
+msgstr ""
+
+msgid "test results"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "you can use ESC key for fast close"
+msgstr ""
+
+msgid "Field Options"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "More Options"
+msgstr ""
+
+msgid "Text editor"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "your content"
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+msgid "Url to the button"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Url target"
+msgstr ""
+
+msgid "other options"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "Font family"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color for text"
+msgstr ""
+
+msgid "Pick the color"
+msgstr ""
+
+msgid "Text Shadow"
+msgstr ""
+
+msgid "horizontal"
+msgstr ""
+
+msgid "vertical"
+msgstr ""
+
+msgid "blur"
+msgstr ""
+
+msgid "Text alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Button alignment"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Enable background"
+msgstr ""
+
+msgid "Background type"
+msgstr ""
+
+msgid "Choose background type"
+msgstr ""
+
+msgid "Solid"
+msgstr ""
+
+msgid "Gradient"
+msgstr ""
+
+msgid "Color for background"
+msgstr ""
+
+msgid "Start color"
+msgstr ""
+
+msgid "Start color for background"
+msgstr ""
+
+msgid "End color"
+msgstr ""
+
+msgid "End color for background"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Background image"
+msgstr ""
+
+msgid "Update Image"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Background size"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Background repeat"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Background position"
+msgstr ""
+
+msgid "Background Hover"
+msgstr ""
+
+msgid "Border"
+msgstr ""
+
+msgid "Enable Border"
+msgstr ""
+
+msgid "Enable border"
+msgstr ""
+
+msgid "Color for border"
+msgstr ""
+
+msgid "Border type"
+msgstr ""
+
+msgid "Choose border type"
+msgstr ""
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Border width"
+msgstr ""
+
+msgid "Border radius"
+msgstr ""
+
+msgid "Enable border radius"
+msgstr ""
+
+msgid "Drag the slider to increase the size of border radius"
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Enable shadow"
+msgstr ""
+
+msgid "Shadow color"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Drag the slider to modify horizontal value"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Drag the slider to modify vertical value"
+msgstr ""
+
+msgid "Blur"
+msgstr ""
+
+msgid "Drag the slider to modify blur value"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Top margin (px)"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Bottom margin (px)"
+msgstr ""
+
+msgid "left"
+msgstr ""
+
+msgid "Left margin (px)"
+msgstr ""
+
+msgid "right"
+msgstr ""
+
+msgid "Right margin (px)"
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "Additional"
+msgstr ""
+
+msgid "ID selector"
+msgstr ""
+
+msgid "ID selector let you control through css or javascript"
+msgstr ""
+
+msgid "CSS class"
+msgstr ""
+
+msgid "CSS class let you control through css or javascript"
+msgstr ""
+
+msgid "Additional css"
+msgstr ""
+
+msgid "Skin"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Color for texts inner field"
+msgstr ""
+
+msgid "Max width"
+msgstr ""
+
+msgid "Max width for the content"
+msgstr ""
+
+msgid "HTML heading"
+msgstr ""
+
+msgid "H1"
+msgstr ""
+
+msgid "H2"
+msgstr ""
+
+msgid "H3"
+msgstr ""
+
+msgid "H4"
+msgstr ""
+
+msgid "H5"
+msgstr ""
+
+msgid "H6"
+msgstr ""
+
+msgid "html editor"
+msgstr ""
+
+msgid "Content alignment"
+msgstr ""
+
+msgid "this ID selector will be added to this field. it lets you control through css or javascript"
+msgstr ""
+
+msgid "this css class will be added to the field. it lets you control through css or javascript"
+msgstr ""
+
+msgid "Text align"
+msgstr ""
+
+msgid "Text container alignment"
+msgstr ""
+
+msgid "Main fields"
+msgstr ""
+
+msgid "More fields"
+msgstr ""
+
+msgid "Standard Fields"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "Heading"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Grid System"
+msgstr ""
+
+msgid "1 Col"
+msgstr ""
+
+msgid "2 Cols"
+msgstr ""
+
+msgid "3 Cols"
+msgstr ""
+
+msgid "4 Cols"
+msgstr ""
+
+msgid "6 Cols"
+msgstr ""
+
+msgid "12 Cols"
+msgstr ""
+
+msgid "Delete field selected"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Are you sure about this?"
+msgstr ""
+
+msgid "Row"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "Post is saved and published"
+msgstr ""
+
+msgid "Post is saved as a draft"
+msgstr ""
+
+msgid "Post imported successfully"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid " Option 3"
+msgstr ""
+
+msgid " Layout gen"
+msgstr ""
+
+msgid "Post to export"
+msgstr ""
+
+msgid "the exporting code is used for backuping your custom post, just copy the text and import it using import menu"
+msgstr ""
+
+msgid "Export post"
+msgstr ""
+
+msgid "Import your post"
+msgstr ""
+
+msgid "Import your post here, just paste the export code and that is all."
+msgstr ""
+
+msgid "Import post"
+msgstr ""
+
+msgid "Post failed on saving"
+msgstr ""
+
+msgid "Post could not be saved because of next reasons:"
+msgstr ""
+
+msgid "Error!"
+msgstr ""

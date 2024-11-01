@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Project-Id-Version: opa ru\n"
+"Language: ru\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "The plugin can not be network activated. You need to activate the plugin per site"
+msgstr "Плагин не может быть активирован сети. Вам нужно активировать плагин для каждого сайта"
+
+msgid "Styles Font Menu requires WordPress 3.4 or newer."
+msgstr "Стили шрифта меню требует WordPress 3.4 или более поздней версии."
+
+msgid "Please update."
+msgstr "Пожалуйста обновите."
+
+msgid "Select language"
+msgstr "Выберите язык"
+
+msgid "english"
+msgstr "английский"
+
+msgid "spanish"
+msgstr "испанский"
+
+msgid "french"
+msgstr "Французский"
+
+msgid "german"
+msgstr "Немецкий"
+
+msgid "italian"
+msgstr "итальянский"
+
+msgid "portuguese"
+msgstr "португальский"
+
+msgid "russian"
+msgstr "русский"
+
+msgid "chinese"
+msgstr "Китайский"
+
+msgid "Edit with Landera"
+msgstr "Редактирование с помощью Landera"
+
+msgid "Invalid ID"
+msgstr "Неверный ID"
+
+msgid "Landera is not enabled and is not active"
+msgstr "Landera не включен и не активен"
+
+msgid "Current user can not publish posts"
+msgstr "Текущий пользователь не может публиковать сообщения"
+
+msgid "Dock"
+msgstr "Док"
+
+msgid "Save draft"
+msgstr "Сохранить проект"
+
+msgid "Publish"
+msgstr "Публиковать"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Blank"
+msgstr "пустой"
+
+msgid "Landing page"
+msgstr "целевой страницы"
+
+msgid "Dock Palette"
+msgstr "Dock Palette"
+
+msgid "Show Palette"
+msgstr "Показать палитру"
+
+msgid "Hide Palette"
+msgstr "Скрыть палитру"
+
+msgid "Import"
+msgstr "Импортировать"
+
+msgid "Export"
+msgstr "экспорт"
+
+msgid " Option 2"
+msgstr " Вариант 2"
+
+msgid " Show vars"
+msgstr " Показать вары"
+
+msgid "Landera"
+msgstr "Landera"
+
+msgid "Fields palette"
+msgstr "Поля палитры"
+
+msgid "Undock"
+msgstr "Расстыкуйтесь"
+
+msgid "Fields Palette"
+msgstr "Поля Palette"
+
+msgid "Dashboard"
+msgstr "Панель приборов"
+
+msgid "Introduction"
+msgstr "Введение"
+
+msgid "Settings"
+msgstr "настройки"
+
+msgid "Language"
+msgstr "язык"
+
+msgid "Select here.."
+msgstr "Выберите здесь .."
+
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+msgid "NO BUILDER"
+msgstr "НЕТ СТРОИТЕЛЬ"
+
+msgid "BACKEND BUILDER"
+msgstr "BACKEND СТРОИТЕЛЬ"
+
+msgid "FRONTEND BUILDER"
+msgstr "FRONTEND СТРОИТЕЛЬ"
+
+msgid "test results"
+msgstr "результаты теста"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "you can use ESC key for fast close"
+msgstr "вы можете использовать клавишу ESC для быстрого закрытия"
+
+msgid "Field Options"
+msgstr "параметры полей"
+
+msgid "Input"
+msgstr "вход"
+
+msgid "More Options"
+msgstr "Больше вариантов"
+
+msgid "Text editor"
+msgstr "Текстовый редактор"
+
+msgid "Title"
+msgstr "заглавие"
+
+msgid "your content"
+msgstr "ваше содержание"
+
+msgid "Url"
+msgstr "Веб-сайт"
+
+msgid "Url to the button"
+msgstr "Веб-сайт с кнопкой"
+
+msgid "Target"
+msgstr "цель"
+
+msgid "Url target"
+msgstr "Веб-сайт целевой"
+
+msgid "other options"
+msgstr "другие варианты"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "none"
+msgstr "никто"
+
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+msgid "Color"
+msgstr "цвет"
+
+msgid "Color for text"
+msgstr "Цвет текста"
+
+msgid "Pick the color"
+msgstr "Выберите цвет"
+
+msgid "Text Shadow"
+msgstr "Текст Тень"
+
+msgid "horizontal"
+msgstr "горизонтальный"
+
+msgid "vertical"
+msgstr "вертикальный"
+
+msgid "blur"
+msgstr "пятно"
+
+msgid "Text alignment"
+msgstr "выравнивание текста"
+
+msgid "Left"
+msgstr "Оставил"
+
+msgid "Center"
+msgstr "Центр"
+
+msgid "Right"
+msgstr "Правильно"
+
+msgid "Button alignment"
+msgstr "Кнопка выравнивания"
+
+msgid "Background"
+msgstr "Задний план"
+
+msgid "Enable background"
+msgstr "Включить фон"
+
+msgid "Background type"
+msgstr "Тип фона"
+
+msgid "Choose background type"
+msgstr "Выберите тип фона"
+
+msgid "Solid"
+msgstr "твердое тело"
+
+msgid "Gradient"
+msgstr "градиент"
+
+msgid "Color for background"
+msgstr "Цвет для фона"
+
+msgid "Start color"
+msgstr "Начальный цвет"
+
+msgid "Start color for background"
+msgstr "Начальный цвет для фона"
+
+msgid "End color"
+msgstr "Конец цвета"
+
+msgid "End color for background"
+msgstr "Конец цвета для фона"
+
+msgid "Image"
+msgstr "Образ"
+
+msgid "Background image"
+msgstr "Изображение на заднем плане"
+
+msgid "Update Image"
+msgstr "Обновление изображения"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Background size"
+msgstr "размер фона"
+
+msgid "Repeat"
+msgstr "Повторение"
+
+msgid "Background repeat"
+msgstr "Фон повтора"
+
+msgid "Position"
+msgstr "Должность"
+
+msgid "Background position"
+msgstr "положение фона"
+
+msgid "Background Hover"
+msgstr "Фон Hover"
+
+msgid "Border"
+msgstr "бордюр"
+
+msgid "Enable Border"
+msgstr "Включить границу"
+
+msgid "Enable border"
+msgstr "Включить границу"
+
+msgid "Color for border"
+msgstr "Цвет для границы"
+
+msgid "Border type"
+msgstr "Тип Border"
+
+msgid "Choose border type"
+msgstr "Выберите тип границы"
+
+msgid "Dotted"
+msgstr "Пунктирный"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Border width"
+msgstr "Ширина рамки"
+
+msgid "Border radius"
+msgstr "радиус скругления"
+
+msgid "Enable border radius"
+msgstr "Включить радиус границы"
+
+msgid "Drag the slider to increase the size of border radius"
+msgstr "Перетащите ползунок, чтобы увеличить размер радиуса границы"
+
+msgid "Shadow"
+msgstr "Тень"
+
+msgid "Enable shadow"
+msgstr "Включить тень"
+
+msgid "Shadow color"
+msgstr "цвет тени"
+
+msgid "Horizontal"
+msgstr "горизонтальный"
+
+msgid "Drag the slider to modify horizontal value"
+msgstr "Перетащите ползунок, чтобы изменить горизонтальное значение"
+
+msgid "Vertical"
+msgstr "вертикальный"
+
+msgid "Drag the slider to modify vertical value"
+msgstr "Перетащите ползунок, чтобы изменить значение вертикального"
+
+msgid "Blur"
+msgstr "пятно"
+
+msgid "Drag the slider to modify blur value"
+msgstr "Перетащите ползунок, чтобы изменить значение размытия"
+
+msgid "Padding"
+msgstr "набивка"
+
+msgid "Top"
+msgstr "верхний"
+
+msgid "Top margin (px)"
+msgstr "Верхнее поле (ПВ)"
+
+msgid "Bottom"
+msgstr "Дно"
+
+msgid "Bottom margin (px)"
+msgstr "Нижнее поле (ПВ)"
+
+msgid "left"
+msgstr "оставил"
+
+msgid "Left margin (px)"
+msgstr "Левое поле (ПВ)"
+
+msgid "right"
+msgstr "правильно"
+
+msgid "Right margin (px)"
+msgstr "Правое поле (ПВ)"
+
+msgid "Margin"
+msgstr "Поле"
+
+msgid "Additional"
+msgstr "дополнительный"
+
+msgid "ID selector"
+msgstr "селектор ID"
+
+msgid "ID selector let you control through css or javascript"
+msgstr "селектор ID позволяет управлять с помощью CSS или JavaScript"
+
+msgid "CSS class"
+msgstr "класс CSS"
+
+msgid "CSS class let you control through css or javascript"
+msgstr "Класс CSS позволяют управлять через CSS или JavaScript"
+
+msgid "Additional css"
+msgstr "Дополнительные CSS"
+
+msgid "Skin"
+msgstr "кожа"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Color for texts inner field"
+msgstr "Цвет для текстов внутреннего поля"
+
+msgid "Max width"
+msgstr "Максимальная ширина"
+
+msgid "Max width for the content"
+msgstr "Максимальная ширина для контента"
+
+msgid "HTML heading"
+msgstr "HTML заголовок"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "html editor"
+msgstr "редактор HTML"
+
+msgid "Content alignment"
+msgstr "выравнивание содержимого"
+
+msgid "this ID selector will be added to this field. it lets you control through css or javascript"
+msgstr "этот селектор ID будет добавлен в этой области. она позволяет управлять через CSS или JavaScript"
+
+msgid "this css class will be added to the field. it lets you control through css or javascript"
+msgstr "Этот класс CSS будет добавлен в поле. она позволяет управлять через CSS или JavaScript"
+
+msgid "Text align"
+msgstr "Выравнивание текста"
+
+msgid "Text container alignment"
+msgstr "Выравнивание текста контейнера"
+
+msgid "Main fields"
+msgstr "Основные направления"
+
+msgid "More fields"
+msgstr "Дополнительные поля"
+
+msgid "Standard Fields"
+msgstr "Стандартные поля"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Heading"
+msgstr "заголовок"
+
+msgid "Button"
+msgstr "кнопка"
+
+msgid "Grid System"
+msgstr "Grid System"
+
+msgid "1 Col"
+msgstr "1 Col"
+
+msgid "2 Cols"
+msgstr "2 Cols"
+
+msgid "3 Cols"
+msgstr "3 Cols"
+
+msgid "4 Cols"
+msgstr "4 Cols"
+
+msgid "6 Cols"
+msgstr "6 Cols"
+
+msgid "12 Cols"
+msgstr "12 Cols"
+
+msgid "Delete field selected"
+msgstr "Удалить поле выбрано"
+
+msgid "Are you sure?"
+msgstr "Ты уверен?"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Yes"
+msgstr "да"
+
+msgid "Are you sure about this?"
+msgstr "Вы в этом уверены?"
+
+msgid "Row"
+msgstr "Ряд"
+
+msgid "Column"
+msgstr "колонка"
+
+msgid "Field"
+msgstr "поле"
+
+msgid "Removing"
+msgstr "Удаление"
+
+msgid "Processing"
+msgstr "обработка"
+
+msgid "Loading"
+msgstr "загрузка"
+
+msgid "Saving"
+msgstr "экономия"
+
+msgid "Post is saved and published"
+msgstr "Сообщение сохраняется и опубликован"
+
+msgid "Post is saved as a draft"
+msgstr "Сообщение сохраняется как черновик"
+
+msgid "Post imported successfully"
+msgstr "Сообщение успешно импортированы"
+
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+msgid "Desktop"
+msgstr "рабочий стол"
+
+msgid "Tablet"
+msgstr "таблетка"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid " Option 3"
+msgstr " Вариант 3"
+
+msgid " Layout gen"
+msgstr " Макет поколения"
+
+msgid "Post to export"
+msgstr "Сообщение для экспорта"
+
+msgid "the exporting code is used for backuping your custom post, just copy the text and import it using import menu"
+msgstr "экспортирующая код используется для backuping пользовательский пост, просто скопировать текст и импортировать его с помощью меню импорта"
+
+msgid "Export post"
+msgstr "Экспорт сообщение"
+
+msgid "Import your post"
+msgstr "Импорт пост"
+
+msgid "Import your post here, just paste the export code and that is all."
+msgstr "Импорт пост здесь, просто вставьте код экспорта, и это все."
+
+msgid "Import post"
+msgstr "Импорт сообщение"
+
+msgid "Post failed on saving"
+msgstr "Сообщение не удалось по экономии"
+
+msgid "Post could not be saved because of next reasons:"
+msgstr "Сообщение не может быть сохранено из-за следующих причин:"
+
+msgid "Error!"
+msgstr "Ошибка!"

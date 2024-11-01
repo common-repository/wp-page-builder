@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Project-Id-Version: test it\n"
+"Language: it\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "The plugin can not be network activated. You need to activate the plugin per site"
+msgstr "Il plugin non può essere di rete attivata. È necessario attivare il plugin per sito"
+
+msgid "Styles Font Menu requires WordPress 3.4 or newer."
+msgstr "Gli stili dei caratteri del menu richiede WordPress 3.4 o più recente."
+
+msgid "Please update."
+msgstr "Per favore aggiornare."
+
+msgid "Select language"
+msgstr "Seleziona la lingua"
+
+msgid "english"
+msgstr "Inglese"
+
+msgid "spanish"
+msgstr "spagnolo"
+
+msgid "french"
+msgstr "francese"
+
+msgid "german"
+msgstr "Tedesco"
+
+msgid "italian"
+msgstr "italiano"
+
+msgid "portuguese"
+msgstr "portoghese"
+
+msgid "russian"
+msgstr "russo"
+
+msgid "chinese"
+msgstr "Cinese"
+
+msgid "Edit with Landera"
+msgstr "Modifica con Landera"
+
+msgid "Invalid ID"
+msgstr "ID non valido"
+
+msgid "Landera is not enabled and is not active"
+msgstr "Landera non è attivata e non è attivo"
+
+msgid "Current user can not publish posts"
+msgstr "utente corrente non può pubblicare i messaggi"
+
+msgid "Dock"
+msgstr "bacino"
+
+msgid "Save draft"
+msgstr "Salva la bozza"
+
+msgid "Publish"
+msgstr "Pubblicare"
+
+msgid "Templates"
+msgstr "Modelli"
+
+msgid "Blank"
+msgstr "vuoto"
+
+msgid "Landing page"
+msgstr "Pagina di destinazione"
+
+msgid "Dock Palette"
+msgstr "Dock Palette"
+
+msgid "Show Palette"
+msgstr "Mostra gamma"
+
+msgid "Hide Palette"
+msgstr "Nascondi la Palette"
+
+msgid "Import"
+msgstr "Importare"
+
+msgid "Export"
+msgstr "Esportare"
+
+msgid " Option 2"
+msgstr " opzione 2"
+
+msgid " Show vars"
+msgstr " Mostra Vars"
+
+msgid "Landera"
+msgstr "Landera"
+
+msgid "Fields palette"
+msgstr "tavolozza campi"
+
+msgid "Undock"
+msgstr "sganciare"
+
+msgid "Fields Palette"
+msgstr "campi Palette"
+
+msgid "Dashboard"
+msgstr "Cruscotto"
+
+msgid "Introduction"
+msgstr "introduzione"
+
+msgid "Settings"
+msgstr "impostazioni"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Select here.."
+msgstr "Seleziona qui .."
+
+msgid "Save changes"
+msgstr "Salva I Cambiamenti"
+
+msgid "NO BUILDER"
+msgstr "NO COSTRUTTORE"
+
+msgid "BACKEND BUILDER"
+msgstr "BACKEND COSTRUTTORE"
+
+msgid "FRONTEND BUILDER"
+msgstr "FRONTEND COSTRUTTORE"
+
+msgid "test results"
+msgstr "risultati del test"
+
+msgid "Close"
+msgstr "Vicino"
+
+msgid "you can use ESC key for fast close"
+msgstr "è possibile utilizzare il tasto ESC per chiusura rapida"
+
+msgid "Field Options"
+msgstr "Opzioni per i campi"
+
+msgid "Input"
+msgstr "Ingresso"
+
+msgid "More Options"
+msgstr "Più opzioni"
+
+msgid "Text editor"
+msgstr "Editor di testo"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "your content"
+msgstr "sul suo sito web"
+
+msgid "Url"
+msgstr "url"
+
+msgid "Url to the button"
+msgstr "URL al pulsante"
+
+msgid "Target"
+msgstr "Bersaglio"
+
+msgid "Url target"
+msgstr "uRL di destinazione"
+
+msgid "other options"
+msgstr "altre opzioni"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "none"
+msgstr "nessuna"
+
+msgid "Font family"
+msgstr "Famiglia di font"
+
+msgid "Color"
+msgstr "Colore"
+
+msgid "Color for text"
+msgstr "Colore per il testo"
+
+msgid "Pick the color"
+msgstr "Scegli il colore"
+
+msgid "Text Shadow"
+msgstr "Ombra di testo"
+
+msgid "horizontal"
+msgstr "orizzontale"
+
+msgid "vertical"
+msgstr "verticale"
+
+msgid "blur"
+msgstr "sfocatura"
+
+msgid "Text alignment"
+msgstr "allineamento del testo"
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Right"
+msgstr "Destra"
+
+msgid "Button alignment"
+msgstr "allineamento pulsante"
+
+msgid "Background"
+msgstr "sfondo"
+
+msgid "Enable background"
+msgstr "Abilita sfondo"
+
+msgid "Background type"
+msgstr "tipo di sfondo"
+
+msgid "Choose background type"
+msgstr "Scegli il tipo di fondo"
+
+msgid "Solid"
+msgstr "Solido"
+
+msgid "Gradient"
+msgstr "Pendenza"
+
+msgid "Color for background"
+msgstr "Colore per lo sfondo"
+
+msgid "Start color"
+msgstr "Inizia a colori"
+
+msgid "Start color for background"
+msgstr "Inizia il colore per lo sfondo"
+
+msgid "End color"
+msgstr "colore finale"
+
+msgid "End color for background"
+msgstr "colore finale per lo sfondo"
+
+msgid "Image"
+msgstr "Immagine"
+
+msgid "Background image"
+msgstr "Immagine di sfondo"
+
+msgid "Update Image"
+msgstr "Aggiornamento Immagine"
+
+msgid "Size"
+msgstr "Dimensione"
+
+msgid "Background size"
+msgstr "dimensioni sfondo"
+
+msgid "Repeat"
+msgstr "Ripetere"
+
+msgid "Background repeat"
+msgstr "ripetere sfondo"
+
+msgid "Position"
+msgstr "Posizione"
+
+msgid "Background position"
+msgstr "posizione sfondo"
+
+msgid "Background Hover"
+msgstr "sfondo Hover"
+
+msgid "Border"
+msgstr "Confine"
+
+msgid "Enable Border"
+msgstr "Abilita Border"
+
+msgid "Enable border"
+msgstr "Abilita bordo"
+
+msgid "Color for border"
+msgstr "Colore per il bordo"
+
+msgid "Border type"
+msgstr "tipo di bordo"
+
+msgid "Choose border type"
+msgstr "Scegli il tipo di frontiera"
+
+msgid "Dotted"
+msgstr "punteggiato"
+
+msgid "Width"
+msgstr "Larghezza"
+
+msgid "Border width"
+msgstr "Larghezza del bordo"
+
+msgid "Border radius"
+msgstr "raggio di confine"
+
+msgid "Enable border radius"
+msgstr "Abilita raggio di confine"
+
+msgid "Drag the slider to increase the size of border radius"
+msgstr "Trascina il cursore per aumentare le dimensioni del raggio di confine"
+
+msgid "Shadow"
+msgstr "Ombra"
+
+msgid "Enable shadow"
+msgstr "Abilita ombra"
+
+msgid "Shadow color"
+msgstr "colore dell'ombra"
+
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+msgid "Drag the slider to modify horizontal value"
+msgstr "Trascina il cursore per modificare il valore orizzontale"
+
+msgid "Vertical"
+msgstr "Verticale"
+
+msgid "Drag the slider to modify vertical value"
+msgstr "Trascina il cursore per modificare il valore verticale"
+
+msgid "Blur"
+msgstr "blur"
+
+msgid "Drag the slider to modify blur value"
+msgstr "Trascinare il dispositivo di scorrimento per modificare il valore di sfocatura"
+
+msgid "Padding"
+msgstr "Imbottitura"
+
+msgid "Top"
+msgstr "Superiore"
+
+msgid "Top margin (px)"
+msgstr "Margine superiore (px)"
+
+msgid "Bottom"
+msgstr "Parte inferiore"
+
+msgid "Bottom margin (px)"
+msgstr "margine inferiore (px)"
+
+msgid "left"
+msgstr "sinistra"
+
+msgid "Left margin (px)"
+msgstr "Margine sinistro (px)"
+
+msgid "right"
+msgstr "destra"
+
+msgid "Right margin (px)"
+msgstr "margine destro (px)"
+
+msgid "Margin"
+msgstr "Margine"
+
+msgid "Additional"
+msgstr "aggiuntivo"
+
+msgid "ID selector"
+msgstr "selettore di ID"
+
+msgid "ID selector let you control through css or javascript"
+msgstr "selettore di ID consentono di controllare tramite CSS o JavaScript"
+
+msgid "CSS class"
+msgstr "classe CSS"
+
+msgid "CSS class let you control through css or javascript"
+msgstr "classe CSS consentono di controllare tramite CSS o JavaScript"
+
+msgid "Additional css"
+msgstr "CSS aggiuntive"
+
+msgid "Skin"
+msgstr "Pelle"
+
+msgid "Text"
+msgstr "Testo"
+
+msgid "Color for texts inner field"
+msgstr "Colore per i testi campo interno"
+
+msgid "Max width"
+msgstr "larghezza massima"
+
+msgid "Max width for the content"
+msgstr "Larghezza massima per il contenuto"
+
+msgid "HTML heading"
+msgstr "intestazione HTML"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "html editor"
+msgstr "html editor"
+
+msgid "Content alignment"
+msgstr "allineamento dei contenuti"
+
+msgid "this ID selector will be added to this field. it lets you control through css or javascript"
+msgstr "questo selettore ID verrà aggiunto a questo campo. esso permette di controllare tramite CSS o JavaScript"
+
+msgid "this css class will be added to the field. it lets you control through css or javascript"
+msgstr "questa classe css verrà aggiunto al campo. esso permette di controllare tramite CSS o JavaScript"
+
+msgid "Text align"
+msgstr "Allineamento del testo"
+
+msgid "Text container alignment"
+msgstr "allineamento contenitore di testo"
+
+msgid "Main fields"
+msgstr "I principali campi"
+
+msgid "More fields"
+msgstr "altri campi"
+
+msgid "Standard Fields"
+msgstr "campi standard"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Heading"
+msgstr "Intestazione"
+
+msgid "Button"
+msgstr "Pulsante"
+
+msgid "Grid System"
+msgstr "grid System"
+
+msgid "1 Col"
+msgstr "1 Col"
+
+msgid "2 Cols"
+msgstr "2 Cols"
+
+msgid "3 Cols"
+msgstr "3 Cols"
+
+msgid "4 Cols"
+msgstr "4 Cols"
+
+msgid "6 Cols"
+msgstr "6 Cols"
+
+msgid "12 Cols"
+msgstr "12 Cols"
+
+msgid "Delete field selected"
+msgstr "Elimina campo selezionato"
+
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Yes"
+msgstr "sì"
+
+msgid "Are you sure about this?"
+msgstr "Sei sicuro di questo?"
+
+msgid "Row"
+msgstr "Riga"
+
+msgid "Column"
+msgstr "Colonna"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Removing"
+msgstr "Rimozione"
+
+msgid "Processing"
+msgstr "lavorazione"
+
+msgid "Loading"
+msgstr "Caricamento in corso"
+
+msgid "Saving"
+msgstr "Salvataggio"
+
+msgid "Post is saved and published"
+msgstr "Messaggio viene salvato e pubblicato"
+
+msgid "Post is saved as a draft"
+msgstr "Messaggio viene salvato come bozza"
+
+msgid "Post imported successfully"
+msgstr "Messaggio importato con successo"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Tablet"
+msgstr "Tavoletta"
+
+msgid "Phone"
+msgstr "Telefono"
+
+msgid " Option 3"
+msgstr " opzione 3"
+
+msgid " Layout gen"
+msgstr " disposizione gen"
+
+msgid "Post to export"
+msgstr "Pubblica per l'esportazione"
+
+msgid "the exporting code is used for backuping your custom post, just copy the text and import it using import menu"
+msgstr "il codice esportazione viene utilizzato per backuping tuo post personalizzato, basta copiare il testo e importarlo utilizzando il menu di importazione"
+
+msgid "Export post"
+msgstr "Post Export"
+
+msgid "Import your post"
+msgstr "Importa il tuo messaggio"
+
+msgid "Import your post here, just paste the export code and that is all."
+msgstr "Importa i tuoi post qui, basta incollare il codice di esportazione e questo è tutto."
+
+msgid "Import post"
+msgstr "Importa posta"
+
+msgid "Post failed on saving"
+msgstr "Messaggio non è riuscito a salvare"
+
+msgid "Post could not be saved because of next reasons:"
+msgstr "Messaggio non può essere salvata a causa di successivi motivi:"
+
+msgid "Error!"
+msgstr "Errore!"

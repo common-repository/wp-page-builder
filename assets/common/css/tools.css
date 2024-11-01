@@ -1,0 +1,26 @@
+#lndr_importimg_showurlsmod,
+#lndr_importimg_showurlsleft{
+    padding: 10px;
+    margin:10px;
+}
+
+
+#lndr_importimg_showurlsmod li ,
+#lndr_importimg_showurlsleft li {
+   font-size: 11px;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+    -moz-user-select: -moz-text;
+   -khtml-user-select: text;
+   -webkit-user-select: text;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: text;
+   user-select: text;
+    
+}
+  

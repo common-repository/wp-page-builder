@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Project-Id-Version: opa chi\n"
+"Language: zh_TW\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "The plugin can not be network activated. You need to activate the plugin per site"
+msgstr "該插件不能被網絡激活。您需要激活每個站點的插件"
+
+msgid "Styles Font Menu requires WordPress 3.4 or newer."
+msgstr "風格字體菜單要求的WordPress 3.4或更高版本。"
+
+msgid "Please update."
+msgstr "請更新。"
+
+msgid "Select language"
+msgstr "選擇語言"
+
+msgid "english"
+msgstr "英語"
+
+msgid "spanish"
+msgstr "西班牙語"
+
+msgid "french"
+msgstr "法國"
+
+msgid "german"
+msgstr "德語"
+
+msgid "italian"
+msgstr "意大利"
+
+msgid "portuguese"
+msgstr "葡萄牙語"
+
+msgid "russian"
+msgstr "俄語"
+
+msgid "chinese"
+msgstr "中文"
+
+msgid "Edit with Landera"
+msgstr "與ZigaPage編輯"
+
+msgid "Invalid ID"
+msgstr "無效的ID"
+
+msgid "Landera is not enabled and is not active"
+msgstr "ZigaPage未啟用和不活躍"
+
+msgid "Current user can not publish posts"
+msgstr "當前用戶無法發布帖子"
+
+msgid "Dock"
+msgstr "碼頭"
+
+msgid "Save draft"
+msgstr "保存草稿"
+
+msgid "Publish"
+msgstr "發布"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Blank"
+msgstr "空白"
+
+msgid "Landing page"
+msgstr "登陸頁面"
+
+msgid "Dock Palette"
+msgstr "碼頭調色板"
+
+msgid "Show Palette"
+msgstr "顯示面板"
+
+msgid "Hide Palette"
+msgstr "隱藏調色板"
+
+msgid "Import"
+msgstr "進口"
+
+msgid "Export"
+msgstr "出口"
+
+msgid " Option 2"
+msgstr " 選項2"
+
+msgid " Show vars"
+msgstr " 顯示瓦爾"
+
+msgid "Landera"
+msgstr "Landera"
+
+msgid "Fields palette"
+msgstr "域調色板"
+
+msgid "Undock"
+msgstr "取消停靠"
+
+msgid "Fields Palette"
+msgstr "域調色板"
+
+msgid "Dashboard"
+msgstr "儀表板"
+
+msgid "Introduction"
+msgstr "介紹"
+
+msgid "Settings"
+msgstr "設置"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Select here.."
+msgstr "選擇在這裡.."
+
+msgid "Save changes"
+msgstr "保存更改"
+
+msgid "NO BUILDER"
+msgstr "NO BUILDER"
+
+msgid "BACKEND BUILDER"
+msgstr "BACKEND BUILDER"
+
+msgid "FRONTEND BUILDER"
+msgstr "FRONTEND BUILDER"
+
+msgid "test results"
+msgstr "檢測結果"
+
+msgid "Close"
+msgstr "關"
+
+msgid "you can use ESC key for fast close"
+msgstr "您可以使用快速關閉ESC鍵"
+
+msgid "Field Options"
+msgstr "域選項"
+
+msgid "Input"
+msgstr "輸入"
+
+msgid "More Options"
+msgstr "更多的選擇"
+
+msgid "Text editor"
+msgstr "文本編輯器"
+
+msgid "Title"
+msgstr "標題"
+
+msgid "your content"
+msgstr "內容"
+
+msgid "Url"
+msgstr "網址"
+
+msgid "Url to the button"
+msgstr "地址到按鈕"
+
+msgid "Target"
+msgstr "目標"
+
+msgid "Url target"
+msgstr "網址目標"
+
+msgid "other options"
+msgstr "其他選項"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "none"
+msgstr "沒有"
+
+msgid "Font family"
+msgstr "字體系列"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Color for text"
+msgstr "彩色文本"
+
+msgid "Pick the color"
+msgstr "挑選顏色"
+
+msgid "Text Shadow"
+msgstr "文字陰影"
+
+msgid "horizontal"
+msgstr "橫"
+
+msgid "vertical"
+msgstr "垂直"
+
+msgid "blur"
+msgstr "模糊"
+
+msgid "Text alignment"
+msgstr "文本對齊"
+
+msgid "Left"
+msgstr "剩下"
+
+msgid "Center"
+msgstr "中央"
+
+msgid "Right"
+msgstr "對"
+
+msgid "Button alignment"
+msgstr "按鈕對齊"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Enable background"
+msgstr "啟用後台"
+
+msgid "Background type"
+msgstr "背景類型"
+
+msgid "Choose background type"
+msgstr "選擇背景類型"
+
+msgid "Solid"
+msgstr "固體"
+
+msgid "Gradient"
+msgstr "梯度"
+
+msgid "Color for background"
+msgstr "彩色背景"
+
+msgid "Start color"
+msgstr "起始色"
+
+msgid "Start color for background"
+msgstr "啟動背景顏色"
+
+msgid "End color"
+msgstr "結束顏色"
+
+msgid "End color for background"
+msgstr "高檔彩色背景"
+
+msgid "Image"
+msgstr "圖片"
+
+msgid "Background image"
+msgstr "背景圖"
+
+msgid "Update Image"
+msgstr "更新圖片"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Background size"
+msgstr "背景大小"
+
+msgid "Repeat"
+msgstr "重複"
+
+msgid "Background repeat"
+msgstr "背景重複"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Background position"
+msgstr "背景位置"
+
+msgid "Background Hover"
+msgstr "背景懸停"
+
+msgid "Border"
+msgstr "邊境"
+
+msgid "Enable Border"
+msgstr "啟用邊框"
+
+msgid "Enable border"
+msgstr "啟用邊界"
+
+msgid "Color for border"
+msgstr "顏色邊框"
+
+msgid "Border type"
+msgstr "邊框類型"
+
+msgid "Choose border type"
+msgstr "選擇邊框類型"
+
+msgid "Dotted"
+msgstr "帶點"
+
+msgid "Width"
+msgstr "寬度"
+
+msgid "Border width"
+msgstr "邊框寬度"
+
+msgid "Border radius"
+msgstr "邊境半徑"
+
+msgid "Enable border radius"
+msgstr "啟用邊框半徑"
+
+msgid "Drag the slider to increase the size of border radius"
+msgstr "拖動滑塊來提高邊境半徑的大小"
+
+msgid "Shadow"
+msgstr "陰影"
+
+msgid "Enable shadow"
+msgstr "啟用陰影"
+
+msgid "Shadow color"
+msgstr "陰影顏色"
+
+msgid "Horizontal"
+msgstr "橫"
+
+msgid "Drag the slider to modify horizontal value"
+msgstr "拖動滑塊來修改水平值"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Drag the slider to modify vertical value"
+msgstr "拖動滑塊來修改垂直值"
+
+msgid "Blur"
+msgstr "模糊"
+
+msgid "Drag the slider to modify blur value"
+msgstr "拖動滑塊來修改模糊值"
+
+msgid "Padding"
+msgstr "填充"
+
+msgid "Top"
+msgstr "最佳"
+
+msgid "Top margin (px)"
+msgstr "上邊距（PX）"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Bottom margin (px)"
+msgstr "下邊距（PX）"
+
+msgid "left"
+msgstr "剩下"
+
+msgid "Left margin (px)"
+msgstr "左邊距（PX）"
+
+msgid "right"
+msgstr "對"
+
+msgid "Right margin (px)"
+msgstr "右頁邊距（PX）"
+
+msgid "Margin"
+msgstr "餘量"
+
+msgid "Additional"
+msgstr "額外"
+
+msgid "ID selector"
+msgstr "ID選擇"
+
+msgid "ID selector let you control through css or javascript"
+msgstr "ID選擇讓你通過CSS或JavaScript控件"
+
+msgid "CSS class"
+msgstr "CSS類"
+
+msgid "CSS class let you control through css or javascript"
+msgstr "CSS類讓你通過CSS或JavaScript控件"
+
+msgid "Additional css"
+msgstr "額外的CSS"
+
+msgid "Skin"
+msgstr "皮膚"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Color for texts inner field"
+msgstr "顏色文本內場"
+
+msgid "Max width"
+msgstr "最大寬度"
+
+msgid "Max width for the content"
+msgstr "最大寬度為內容"
+
+msgid "HTML heading"
+msgstr "HTML的標題"
+
+msgid "H1"
+msgstr "H1"
+
+msgid "H2"
+msgstr "H2"
+
+msgid "H3"
+msgstr "H3"
+
+msgid "H4"
+msgstr "H4"
+
+msgid "H5"
+msgstr "H5"
+
+msgid "H6"
+msgstr "H6"
+
+msgid "html editor"
+msgstr "HTML編輯器"
+
+msgid "Content alignment"
+msgstr "內容比對"
+
+msgid "this ID selector will be added to this field. it lets you control through css or javascript"
+msgstr "這個ID選擇將被添加到該字段。它可以讓你通過CSS或JavaScript控件"
+
+msgid "this css class will be added to the field. it lets you control through css or javascript"
+msgstr "這個CSS類將被添加到現場。它可以讓你通過CSS或JavaScript控件"
+
+msgid "Text align"
+msgstr "文本對齊"
+
+msgid "Text container alignment"
+msgstr "文本容器對準"
+
+msgid "Main fields"
+msgstr "主要領域"
+
+msgid "More fields"
+msgstr "更多領域"
+
+msgid "Standard Fields"
+msgstr "標準字段"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Heading"
+msgstr "標題"
+
+msgid "Button"
+msgstr "按鍵"
+
+msgid "Grid System"
+msgstr "網格系統"
+
+msgid "1 Col"
+msgstr "1上校"
+
+msgid "2 Cols"
+msgstr "2 COLS"
+
+msgid "3 Cols"
+msgstr "3 COLS"
+
+msgid "4 Cols"
+msgstr "4 COLS"
+
+msgid "6 Cols"
+msgstr "6 COLS"
+
+msgid "12 Cols"
+msgstr "12 COLS"
+
+msgid "Delete field selected"
+msgstr "刪除字段選擇"
+
+msgid "Are you sure?"
+msgstr "你確定？"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Are you sure about this?"
+msgstr "你確定嗎？"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Column"
+msgstr "柱"
+
+msgid "Field"
+msgstr "領域"
+
+msgid "Removing"
+msgstr "刪除"
+
+msgid "Processing"
+msgstr "處理"
+
+msgid "Loading"
+msgstr "加載"
+
+msgid "Saving"
+msgstr "保存"
+
+msgid "Post is saved and published"
+msgstr "郵政保存並發布"
+
+msgid "Post is saved as a draft"
+msgstr "郵政保存為草稿"
+
+msgid "Post imported successfully"
+msgstr "後成功導入"
+
+msgid "Preview"
+msgstr "預習"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Tablet"
+msgstr "片劑"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid " Option 3"
+msgstr " 選擇3"
+
+msgid " Layout gen"
+msgstr " 佈局根"
+
+msgid "Post to export"
+msgstr "發布出口"
+
+msgid "the exporting code is used for backuping your custom post, just copy the text and import it using import menu"
+msgstr "出口代碼用於backuping您的自定義後，只需要複製的文本，並使用導入菜單導入它"
+
+msgid "Export post"
+msgstr "後期出口"
+
+msgid "Import your post"
+msgstr "導入您的文章"
+
+msgid "Import your post here, just paste the export code and that is all."
+msgstr "在這裡導入您的文章，只需粘貼出口代號，這是所有。"
+
+msgid "Import post"
+msgstr "導入後"
+
+msgid "Post failed on saving"
+msgstr "失敗後節約"
+
+msgid "Post could not be saved because of next reasons:"
+msgstr "後不能因為下一個原因被保存："
+
+msgid "Error!"
+msgstr "錯誤！"

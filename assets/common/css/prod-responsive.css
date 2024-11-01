@@ -1,0 +1,87 @@
+/*retina display*/
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+  
+    
+}
+
+ 
+/* responsive*/
+@media only screen and (min-width:0px) and (max-width:410px) {
+ 
+}
+@media only screen and (min-width: 486px) {
+    
+}
+@media only screen and (min-width: 768px) {
+
+}
+@media only screen and (min-width: 1025px) {
+
+}
+@media only screen and (min-width: 1824px) {
+
+}
+
+
+/*--------------*/
+@media (max-width: 479px) {
+      .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+
+@media (max-width: 768px) {
+        .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+
+@media (max-width: 768px) {
+        .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+@media (max-width: 992px) {
+        .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+@media (max-width: 1200px) {
+    .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+
+
+@media only screen and (max-width:1024px) {
+}
+
+@media only screen and (min-width:768px) and (max-width:959px) {
+    
+}
+
+@media only screen and (max-width:767px) {
+       .sfdc-container-fluid{
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    } 
+}
+
+@media only screen and (min-width:0px) and (max-width:260px) {
+    
+}
+
+@media only screen and (min-width:0px) and (max-width:410px) {
+   
+}
